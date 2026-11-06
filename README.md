@@ -18,4 +18,4 @@ npm run db:migrate
 npm run db:seed
 ```
 
-`DATABASE_URL` and the service credentials in `.env` must be configured before migration or seed commands. The launch billing catalog is USD: Base `$129`, Plus `$169`, and Unlimited `$219`.
+`DATABASE_URL` and the service credentials in `.env` must be configured before migration or seed commands. The launch billing catalog is USD: Base ` GH₵129`, Plus ` GH₵169`, and Unlimited ` GH₵219`.
